@@ -1,4 +1,9 @@
 """
+This code solves a challenge in which you must calculate how many times a 
+player "X" can start a game session in a given time range, considering 
+that the sessions are enabled only every 15 minutes, these times being 
+at [0, 15, 30, 45] minutes.
+
 Time in format HH:MM
 TS = Time Start
 TE = Time End
